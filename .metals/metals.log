@@ -1,0 +1,191 @@
+2023.02.28 22:28:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/lsp.trace.json or /home/serhii/.cache/metals/lsp.trace.json[0m
+2023.02.28 22:28:45 INFO  logging to file /home/serhii/scala/CE/doobie-helloworld/.metals/metals.log[0m
+2023.02.28 22:28:45 INFO  Started: Metals version 0.11.10+49-deb96896-SNAPSHOT in workspace '/home/serhii/scala/CE/doobie-helloworld' for client Visual Studio Code 1.75.1.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.28 22:28:45 INFO  time: initialize in 0.41s[0m
+2023.02.28 22:28:46 INFO  Attempting to connect to the build server...[0m
+2023.02.28 22:28:46 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json[0m
+2023.02.28 22:28:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json[0m
+2023.02.28 22:28:46 INFO  Attempting to connect to the build server...[0m
+2023.02.28 22:28:46 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json[0m
+2023.02.28 22:28:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/project/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json[0m
+2023.02.28 22:28:46 INFO  time: Connected to build server in 0.28s[0m
+2023.02.28 22:28:46 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.28 22:28:49 INFO  no build target found for /home/serhii/scala/CE/doobie-helloworld/src/main/scala/hw/doobie/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.02.28 22:28:49 INFO  time: code lens generation in 3.23s[0m
+2023.02.28 22:28:53 INFO  time: indexed workspace in 4.04s[0m
+лют. 28, 2023 10:32:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:32:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:32:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:32:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:32:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:32:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:32:58 INFO  running '/home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals4116440775739135214/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.28 22:33:00 INFO  [info] welcome to sbt 1.7.2 (AdoptOpenJDK Java 1.8.0_292)[0m
+2023.02.28 22:33:00 INFO  [info] loading settings for project doobie-helloworld-build-build from metals.sbt ...[0m
+2023.02.28 22:33:01 INFO  [info] loading project definition from /home/serhii/scala/CE/doobie-helloworld/project/project[0m
+2023.02.28 22:33:01 INFO  [info] loading settings for project doobie-helloworld-build from metals.sbt ...[0m
+2023.02.28 22:33:01 INFO  [info] loading project definition from /home/serhii/scala/CE/doobie-helloworld/project[0m
+2023.02.28 22:33:04 INFO  [success] Generated .bloop/doobie-helloworld-build.json[0m
+2023.02.28 22:33:04 INFO  [success] Total time: 2 s, completed 28 лют. 2023 22:33:04[0m
+2023.02.28 22:33:04 INFO  [info] loading settings for project root from build.sbt ...[0m
+2023.02.28 22:33:04 INFO  [info] set current project to doobie-helloworld (in build file:/home/serhii/scala/CE/doobie-helloworld/)[0m
+2023.02.28 22:33:05 INFO  [success] Generated .bloop/root.json[0m
+2023.02.28 22:33:05 INFO  [success] Generated .bloop/root-test.json[0m
+2023.02.28 22:33:05 INFO  [success] Total time: 0 s, completed 28 лют. 2023 22:33:05[0m
+2023.02.28 22:33:06 INFO  time: ran 'sbt bloopInstall' in 7.38s[0m
+2023.02.28 22:33:06 INFO  Disconnecting from Bloop session...[0m
+2023.02.28 22:33:06 INFO  Shut down connection with build server.[0m
+2023.02.28 22:33:06 INFO  Shut down connection with build server.[0m
+2023.02.28 22:33:06 INFO  Attempting to connect to the build server...[0m
+2023.02.28 22:33:06 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json[0m
+2023.02.28 22:33:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json[0m
+2023.02.28 22:33:06 INFO  Attempting to connect to the build server...[0m
+2023.02.28 22:33:06 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json[0m
+2023.02.28 22:33:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/project/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json[0m
+2023.02.28 22:33:06 INFO  time: Connected to build server in 0.14s[0m
+2023.02.28 22:33:06 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.02.28 22:33:06 INFO  time: indexed workspace in 0.76s[0m
+лют. 28, 2023 10:35:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:36:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:36:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:42:00 WARN  no build target for: /home/serhii/scala/CE/doobie-helloworld/project/metals.sbt[0m
+лют. 28, 2023 10:47:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:48:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:48:37 INFO  /home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scala-debug-step-filter_3/3.0.5/scala-debug-step-filter_3-3.0.5.jar[0m
+2023.02.28 22:48:37 INFO  /home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.2.2/tasty-core_3-3.2.2.jar[0m
+2023.02.28 22:48:37 INFO  /home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.2.2/scala3-library_3-3.2.2.jar[0m
+2023.02.28 22:48:37 INFO  /home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/tasty-query_3/0.3.1/tasty-query_3-0.3.1.jar[0m
+2023.02.28 22:48:37 INFO  /home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar[0m
+2023.02.28 22:48:42 INFO  Configured debugger context in 4 seconds[0m
+2023.02.28 22:48:42 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/dap-server.trace.json or /home/serhii/.cache/metals/dap-server.trace.json[0m
+2023.02.28 22:48:42 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/dap-client.trace.json or /home/serhii/.cache/metals/dap-client.trace.json[0m
+2023.02.28 22:48:42 INFO  Starting debug proxy for [hw.doobie.Main][0m
+2023.02.28 22:48:42 INFO  Trying to attach to remote debuggee VM localhost:32889 .[0m
+2023.02.28 22:48:42 INFO  Attaching to debuggee VM succeeded.[0m
+2023.02.28 22:48:47 INFO  Canceling debug proxy for [hw.doobie.Main][0m
+2023.02.28 22:48:47 INFO  Closing debug server tcp://0.0.0.0:42127[0m
+лют. 28, 2023 10:48:47 PM org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer fireError
+SEVERE: java.net.SocketException: Socket closed
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.net.SocketException: Socket closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.debug.SocketEndpoint.consume(SocketEndpoint.scala:22)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.consume(MessageIdAdapter.scala:43)
+	at scala.meta.internal.metals.debug.ServerAdapter.send(ServerAdapter.scala:30)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:152)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:68)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketException: Socket closed
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:118)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 16 more
+
+лют. 28, 2023 10:51:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 10:55:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:56:22 INFO  compiling root (1 scala source)[0m
+2023.02.28 22:56:23 INFO  time: compiled root in 1.43s[0m
+лют. 28, 2023 10:58:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:58:57 INFO  Shutting down server[0m
+2023.02.28 22:58:57 INFO  shutting down Metals[0m
+2023.02.28 22:58:57 INFO  Shut down connection with build server.[0m
+2023.02.28 22:58:57 INFO  Shut down connection with build server.[0m
+2023.02.28 22:58:57 INFO  Exiting server[0m
+2023.02.28 22:59:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/lsp.trace.json or /home/serhii/.cache/metals/lsp.trace.json
+2023.02.28 22:59:29 INFO  logging to file /home/serhii/scala/CE/doobie-helloworld/.metals/metals.log
+2023.02.28 22:59:29 INFO  Started: Metals version 0.11.10+49-deb96896-SNAPSHOT in workspace '/home/serhii/scala/CE/doobie-helloworld' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.28 22:59:30 INFO  time: initialize in 0.48s
+2023.02.28 22:59:30 INFO  Attempting to connect to the build server...
+2023.02.28 22:59:30 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json
+2023.02.28 22:59:30 INFO  skipping build import with status 'Installed'
+2023.02.28 22:59:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json
+2023.02.28 22:59:30 INFO  Attempting to connect to the build server...
+2023.02.28 22:59:30 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json
+2023.02.28 22:59:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/project/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json
+2023.02.28 22:59:30 INFO  time: Connected to build server in 0.33s
+2023.02.28 22:59:30 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.28 22:59:32 INFO  no build target found for /home/serhii/scala/CE/doobie-helloworld/src/main/scala/hw/doobie/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.02.28 22:59:32 INFO  time: code lens generation in 1.31s
+2023.02.28 22:59:33 INFO  time: indexed workspace in 1s
+лют. 28, 2023 10:59:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 22:59:45 INFO  Shutting down server
+2023.02.28 22:59:45 INFO  shutting down Metals
+2023.02.28 22:59:45 INFO  Shut down connection with build server.
+2023.02.28 22:59:45 INFO  Shut down connection with build server.
+2023.02.28 22:59:45 INFO  Exiting server
+2023.02.28 22:59:58 INFO  Started: Metals version 0.11.10+172-d10308ef-SNAPSHOT in workspace '/home/serhii/scala/CE/doobie-helloworld' for client Visual Studio Code 1.75.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/serhii/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.28 22:59:59 INFO  time: initialize in 0.47s
+2023.02.28 22:59:59 INFO  Attempting to connect to the build server...
+2023.02.28 22:59:59 INFO  skipping build import with status 'Installed'
+2023.02.28 22:59:59 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json
+2023.02.28 22:59:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json
+2023.02.28 22:59:59 INFO  Attempting to connect to the build server...
+2023.02.28 22:59:59 INFO  Bloop uses /home/serhii/.cache/coursier/arc/https/github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u292-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u292b10.tar.gz/jdk8u292-b10 defined at /home/serhii/.bloop/bloop.json
+2023.02.28 22:59:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/project/.metals/bsp.trace.json or /home/serhii/.cache/metals/bsp.trace.json
+2023.02.28 22:59:59 INFO  time: Connected to build server in 0.29s
+2023.02.28 22:59:59 INFO  Connected to Build server: Bloop v1.5.6
+2023.02.28 23:00:08 INFO  no build target found for /home/serhii/scala/CE/doobie-helloworld/src/main/scala/hw/doobie/Main.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.02.28 23:00:08 INFO  time: code lens generation in 8.39s
+2023.02.28 23:00:14 INFO  time: indexed workspace in 6.25s
+2023.02.28 23:00:14 INFO  compiling root (2 scala sources)
+2023.02.28 23:00:15 INFO  time: compiled root in 1.2s
+2023.02.28 23:00:15 INFO  compiling root-test (2 scala sources)
+2023.02.28 23:00:15 INFO  time: compiled root-test in 0.44s
+лют. 28, 2023 11:21:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+лют. 28, 2023 11:22:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.02.28 23:22:30 INFO  Configured debugger context in 1 second
+2023.02.28 23:22:30 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/dap-server.trace.json or /home/serhii/.cache/metals/dap-server.trace.json
+2023.02.28 23:22:30 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/serhii/scala/CE/doobie-helloworld/.metals/dap-client.trace.json or /home/serhii/.cache/metals/dap-client.trace.json
+2023.02.28 23:22:30 INFO  Starting debug proxy for [hw.doobie.Main]
+2023.02.28 23:22:30 INFO  Trying to attach to remote debuggee VM localhost:43163 .
+2023.02.28 23:22:30 INFO  Attaching to debuggee VM succeeded.
+2023.02.28 23:22:34 INFO  Closing debug server tcp://0.0.0.0:41749
+2023.02.28 23:22:34 INFO  Canceling debug proxy for [hw.doobie.Main]
+2023.02.28 23:36:28 INFO  compiling root (1 scala source)
+2023.02.28 23:36:30 INFO  time: compiled root in 1.33s
